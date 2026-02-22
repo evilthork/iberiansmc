@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=MedievalSharp&display=swap');
+
+/* ESTILOS MEDIEVALES - SOBREESCRIBIR TODO */
+
+/* Fondo principal */
+body, html {
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%) !important;
+  color: #fff !important;
+  font-family: 'Cinzel', serif !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Títulos */
+h1, h2, h3, h4, h5, h6 {
+  color: #FFD700 !important;
+  font-family: 'MedievalSharp', cursive !important;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.8) !important;
+  margin-bottom: 1rem !important;
+}
+
+/* Enlaces */
+a {
+  color: #4A90E2 !important;
+  text-decoration: none !important;
+  transition: color 0.3s ease !important;
+}
+
+a:hover {
+  color: #6BA3E5 !important;
+  text-decoration: underline !important;
+}
+
+/* Header y Footer */
+.site-header, .site-footer {
+  background: rgba(26, 26, 26, 0.9) !important;
+  border: 2px solid #FFD700 !important;
+  border-radius: 8px !important;
+  padding: 1rem !important;
+  margin: 1rem 0 !important;
+}
+
+/* Contenido principal */
+.page-content, .post {
+  background: rgba(45, 45, 45, 0.7) !important;
+  border: 2px solid rgba(255, 215, 0, 0.3) !important;
+  border-radius: 12px !important;
+  padding: 2rem !important;
+  margin: 2rem auto !important;
+  max-width: 800px !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5) !important;
+}
+
+/* Navegación */
+.site-nav {
+  background: rgba(26, 26, 26, 0.8) !important;
+  border: 1px solid #FFD700 !important;
+  border-radius: 6px !important;
+  padding: 0.5rem !important;
+}
+
+.site-nav a {
+  color: #FFD700 !important;
+  font-weight: 600 !important;
+  margin: 0 0.5rem !important;
+}
+
+.site-nav a:hover {
+  color: #FFA500 !important;
+}
+
+/* Tablas */
+table {
+  border: 2px solid #FFD700 !important;
+  border-collapse: collapse !important;
+  margin: 1rem 0 !important;
+  width: 100% !important;
+}
+
+th, td {
+  border: 1px solid rgba(255, 215, 0, 0.5) !important;
+  padding: 0.75rem !important;
+  text-align: left !important;
+}
+
+th {
+  background: rgba(255, 215, 0, 0.2) !important;
+  color: #FFD700 !important;
+  font-family: 'MedievalSharp', cursive !important;
+  font-weight: 600 !important;
+}
+
+td {
+  background: rgba(45, 45, 45, 0.3) !important;
+}
+
+/* Código */
+code {
+  background: rgba(26, 26, 26, 0.8) !important;
+  border: 1px solid #FFD700 !important;
+  border-radius: 4px !important;
+  color: #fff !important;
+  padding: 0.2rem 0.4rem !important;
+  font-family: 'Courier New', monospace !important;
+}
+
+pre {
+  background: rgba(26, 26, 26, 0.9) !important;
+  border: 2px solid #FFD700 !important;
+  border-radius: 8px !important;
+  padding: 1rem !important;
+  overflow-x: auto !important;
+}
+
+pre code {
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #FFD700 !important;
+  background: rgba(45, 45, 45, 0.4) !important;
+  color: #ddd !important;
+  padding: 1rem 1.5rem !important;
+  margin: 1.5rem 0 !important;
+  border-radius: 0 8px 8px 0 !important;
+  font-style: italic !important;
+}
+
+/* Listas */
+ul, ol {
+  padding-left: 1.5rem !important;
+}
+
+li {
+  margin: 0.5rem 0 !important;
+  line-height: 1.6 !important;
+}
+
+/* Imágenes */
+img {
+  max-width: 100% !important;
+  height: auto !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3) !important;
+}
+
+/* Separadores */
+hr {
+  border: none !important;
+  height: 2px !important;
+  background: linear-gradient(to right, transparent, #FFD700, transparent) !important;
+  margin: 2rem 0 !important;
+}
+
+/* Títulos de sección especiales */
+h1 {
+  font-size: 2.5rem !important;
+  text-align: center !important;
+  margin: 2rem 0 !important;
+}
+
+h2 {
+  font-size: 2rem !important;
+  border-bottom: 2px solid rgba(255, 215, 0, 0.3) !important;
+  padding-bottom: 0.5rem !important;
+}
+
+/* Efectos hover en elementos interactivos */
+.page-content:hover, .post:hover {
+  border-color: rgba(255, 215, 0, 0.6) !important;
+  box-shadow: 0 6px 25px rgba(255, 215, 0, 0.2) !important;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .page-content, .post {
+    margin: 1rem !important;
+    padding: 1rem !important;
+  }
+  
+  h1 {
+    font-size: 2rem !important;
+  }
+  
+  h2 {
+    font-size: 1.5rem !important;
+  }
+}
