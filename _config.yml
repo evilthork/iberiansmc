@@ -37,3 +37,6 @@ server_info:
 include:
   - .htaccess
   - _pages
+
+# Configuración de permalinks
+permalink: pretty
