@@ -6,7 +6,7 @@ title: "Mundo de Fantasía y Creación - Wiki"
 ![Server Banner](assets/images/server-banner.png)
 
 > **Servidor Survival Minecraft 1.20.1 Forge**  
-> IP: `iberians.modded.fun` | RAM: 8GB recomendada | **Código CurseForge**: `SlK8gJY7` 
+> IP: `iberians.modded.fun` | RAM: 8GB recomendada | **Código CurseForge**: `SlK8gJY7`
 
 ---
 
@@ -20,6 +20,7 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 |---------|-------------|--------|
 | 📦 **Instalación** | Guía paso a paso para instalar el pack de mods | [Ver Guía](guia-instalacion) |
 | 🔧 **Lista de Mods** | Todos los mods disponibles y sus funciones | [Ver Mods](lista-mods) |
+| ⌨️ **Comandos** | Comandos útiles y atajos del servidor | [Ver Comandos](comandos) |
 
 ---
 
@@ -32,9 +33,9 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 - **Espacio**: 2GB libres para mods
 
 ### 🔗 Enlaces Importantes
-- **Web Principal**: [evilthork.github.io](https://evilthork.github.io)
-- **IP del Servidor**: `iberians.modded.fun` 
-- **Código CurseForge**: `SlK8gJY7` (válido hasta 02/03/2026)
+- **Web Principal**: [evilthork.github.io](https://evilthork.github.io/iberiansmc)
+- **IP del Servidor**: `iberians.modded.fun`
+- **Código Forge**: `SlK8gJY7` (válido hasta 02/03/2026)
 - **Discord**: [PENDIENTE]
 
 ### 🌟 Características Principales
@@ -49,94 +50,31 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 ## 🗺️ Navegación Rápida
 
 ### 📦 Para Nuevos Jugadores
-1. [Lee la guía de instalación](guia-instalacion.md)
-2. [Usa el código Forge](guia-instalacion.md#método-1-curseforge-app-recomendado)
+1. [Lee la guía de instalación](guia-instalacion)
+2. [Usa el código CurseForge](guia-instalacion#método-1-curseforge-app-recomendado)
 3. [Conéctate al servidor](iberians.modded.fun)
 4. [Únete a nuestro Discord](#) (próximamente)
 
 ### 🔧 Para Jugadores Experimentados
-- [Ver lista completa de mods](lista-mods.md)
-- [Configuración de FTB Chunks](guia-instalacion.md#ftb-chunks)
-- [Comandos avanzados](#) (próximamente)
+- [Ver lista completa de mods](lista-mods)
+- [Comandos avanzados](comandos)
+- [Configuración de FTB Chunks](guia-instalacion#ftb-chunks)
 
 ---
 
-## 🚫 Reglas del Servidor
+## 🤝 Contribuir a la Wiki
 
-### 🚫 **Tolerancia CERO con Hacks**
-**Política de Tolerancia CERO**: No hay advertencias, ban permanente desde el momento que se detecte cualquier tipo de hack.
+¿Tienes información útil para compartir? ¡Ayúdanos a mejorar esta documentación!
 
-#### 🚫 **Prohibido (Ban Permanente):**
-- ❌ **X-Ray**: Cualquier tipo de wallhacks o trampas
-- ❌ **Kill Aura**: Mods que dan ventaja injusta
-- ❌ **Fly Mods**: Mods que permiten volar o trampar
-- ❌ **Speed Hacks**: Mods que alteran la velocidad de forma injusta
-- ❌ **Inventory Hacks**: Mods que duplican items o crean objetos ilegales
-- ❌ **PvP Hacks**: Mods que dan ventaja en PvP sin consentimiento
-- ❌ **Exploits**: Bugs que permiten duplicar recursos
+### 📝 Cómo Contribuir
+1. **Reporta errores** o información desactualizada
+2. **Sugiere nuevas secciones** o guías
+3. **Comparte tus builds** y estrategias
+4. **Ayuda a nuevos jugadores** en Discord
 
-#### ⚠ **Advertencias (Kick Temporal):**
-- ⚠️ **Uso excesivo** de comandos (spam)
-- ⚠️ **Construcción masiva** que cause lag
-- ⚠️ **Abuso de bugs** conocidos para ventaja
-- ⚠️ **Lenguaje ofensivo** o inapropiado
-- ⚠️ **Ignorar advertencias** de administradores
-
-### 🛡️ **Consecuencias:**
-1. **Advertencia verbal** → Kick temporal (5-10 min)
-2. **Repetición** → Kick más largo (30 min - 1 hora)
-3. **Gravedad** → Ban permanente (sin apelación)
-4. **Hack grave** → Ban inmediato (sin previo)
-
----
-
-## 🎮 Protección del Servidor
-
-### 🛡️ **FTB Chunks**
-- **Protección de terrenos** con FTB Chunks
-- **Configura de permisos** para acceso
-- **Rollback automático** si un jugador es eliminado
-- **Logs completos** de acciones de jugadores
-
-### 🔒 **Staff Activo**
-- **Monitoreo constante** de actividad sospechosa
-- **Investigación** de reportes de jugadores
-- **Aplicación justa** de las reglas
-- **Transparencia** en todas las decisiones
-
----
-
-## 📞 Contacto y Reportes
-
-### 📧 **Reportar Problemas:**
-- **Discord**: [PENDIENTE] (mejor opción)
+### 📧 Contacto
+- **Discord**: [PENDIENTE]
 - **Issues de GitHub**: [Reportar Problema](https://github.com/evilthork/iberiansmc/issues)
-- **Staff en juego**: Usa `/report <mensaje>` para contactar staff
-
-### 🎯 **Reporte Bugs:**
-- **Formato**: Describe el bug claramente
-- **Pasos para reproducirlo**: Incluye comandos exactos
-- **Evidencia**: Screenshots o videos si es visual
-- **Context**: Cuándo y dónde ocurrió
-
----
-
-## 🎯 Compromiso y Diversión
-
-### 🎮 **Juego Limpio**
-- ✅ **Creatividad sin límites** (construye libremente)
-- ✅ **Juego PvP estándar** (sin modificaciones especiales)
-- ✅ **Exploración completa** (sin restricciones)
-- ✅ **Comercio justo** (sin estafas ni engaños)
-
-### 🎮 **Comunidad Respetuosa**
-- ✅ **Respeto entre jugadores**
-- ✅ **Sigue las reglas del servidor**
-- ✅ **Reporta bugs** para mejorar
-
----
-
-**¡Disfruta y diviértete! 🎮✨**
 
 ---
 
@@ -155,9 +93,8 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 ## 🎯 Últimas Actualizaciones
 
 - **22/02/2026**: Wiki creada con guía de instalación
-- **22/02/2026**: Código CurseForge temporal activo
+- **22/02/2026**: Código Forge temporal activo
 - **22/02/2026**: Web principal actualizada
-- **22/02/2026**: Política de tolerancia cero con hacks
 
 ---
 
