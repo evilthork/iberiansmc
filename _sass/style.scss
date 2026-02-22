@@ -1,9 +1,7 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=MedievalSharp&display=swap');
 
-// Importar estilos del tema minima
-@import "minima";
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=MedievalSharp&display=swap');
 
 // Variables personalizadas
 $brand-color: #8B4513;
@@ -15,237 +13,69 @@ $bg-light: #2d2d2d;
 
 // Estilos personalizados
 body {
-  background: linear-gradient(135deg, $bg-color 0%, $bg-light 100%);
-  color: $text-color;
-  font-family: 'Cinzel', serif;
+  background: linear-gradient(135deg, $bg-color 0%, $bg-light 100%) !important;
+  color: $text-color !important;
+  font-family: 'Cinzel', serif !important;
 }
 
 // Títulos
 h1, h2, h3, h4, h5, h6 {
-  color: $secondary-color;
-  font-family: 'MedievalSharp', cursive;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+  color: $secondary-color !important;
+  font-family: 'MedievalSharp', cursive !important;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.8) !important;
 }
 
 // Enlaces
 a {
-  color: $accent-color;
+  color: $accent-color !important;
   text-decoration: none;
   
   &:hover {
-    color: lighten($accent-color, 10%);
+    color: lighten($accent-color, 10%) !important;
     text-decoration: underline;
   }
 }
 
-// Código
-code {
-  background: rgba($accent-color, 0.2);
-  color: $text-color;
-  padding: 0.2rem 0.4rem;
-  border-radius: 4px;
-  font-family: 'Courier New', monospace;
+// Contenedor principal
+.site-header, .site-footer {
+  background: rgba($bg-color, 0.8) !important;
+  border: 1px solid $secondary-color !important;
 }
 
-pre {
-  background: rgba(0,0,0,0.5);
-  border: 1px solid $brand-color;
-  border-radius: 8px;
-  padding: 1rem;
-  overflow-x: auto;
-  
-  code {
-    background: transparent;
-    padding: 0;
-  }
+// Posts y páginas
+.post, .page-content {
+  background: rgba($bg-light, 0.6) !important;
+  border: 1px solid rgba($secondary-color, 0.3) !important;
+  border-radius: 8px !important;
+  padding: 20px !important;
 }
 
 // Tablas
 table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1rem 0;
+  border: 1px solid $secondary-color !important;
   
   th, td {
-    border: 1px solid rgba($secondary-color, 0.3);
-    padding: 0.75rem;
-    text-align: left;
+    border: 1px solid rgba($secondary-color, 0.5) !important;
+    padding: 8px !important;
   }
   
   th {
-    background: rgba($brand-color, 0.3);
-    color: $secondary-color;
-    font-weight: bold;
+    background: rgba($secondary-color, 0.2) !important;
+    color: $secondary-color !important;
   }
 }
 
-// Bloques de código
+// Código
+code, pre {
+  background: rgba($bg-color, 0.8) !important;
+  border: 1px solid $secondary-color !important;
+  border-radius: 4px !important;
+  color: $text-color !important;
+}
+
+// Blockquotes
 blockquote {
-  border-left: 4px solid $secondary-color;
-  padding-left: 1rem;
-  margin: 1rem 0;
-  font-style: italic;
-  color: rgba($text-color, 0.8);
-}
-
-// Contenedor principal
-.site-header {
-  background: rgba($brand-color, 0.9);
-  border-bottom: 2px solid $secondary-color;
-}
-
-// Navegación
-.page-content {
-  .wrapper {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 2rem;
-  }
-}
-
-// Footer
-.site-footer {
-  background: rgba($bg-color, 0.9);
-  border-top: 2px solid $secondary-color;
-  text-align: center;
-  padding: 2rem;
-}
-
-// Estilos específicos para la wiki
-.wiki-header {
-  text-align: center;
-  margin-bottom: 3rem;
-  
-  h1 {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-  }
-}
-
-.server-info {
-  background: rgba(0,0,0,0.7);
-  border: 2px solid $secondary-color;
-  border-radius: 10px;
-  padding: 1.5rem;
-  margin: 2rem 0;
-  text-align: center;
-  
-  p {
-    margin: 0.5rem 0;
-  }
-}
-
-.navigation-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
-}
-
-.nav-card {
-  background: rgba(45, 45, 45, 0.9);
-  border-left: 4px solid $accent-color;
-  border-radius: 10px;
-  padding: 1.5rem;
-  transition: all 0.3s ease;
-  
-  &:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 30px rgba($accent-color, 0.3);
-  }
-  
-  h3 {
-    color: $accent-color;
-    margin-bottom: 1rem;
-  }
-  
-  a {
-    color: $secondary-color;
-    font-weight: bold;
-    
-    &:hover {
-      color: lighten($secondary-color, 10%);
-    }
-  }
-}
-
-.stats-section {
-  background: rgba(0,0,0,0.7);
-  border: 2px solid $secondary-color;
-  border-radius: 15px;
-  padding: 2rem;
-  margin: 3rem 0;
-  
-  h2 {
-    text-align: center;
-    margin-bottom: 2rem;
-    color: $secondary-color;
-  }
-}
-
-.feature-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  margin: 2rem 0;
-}
-
-.feature-item {
-  background: rgba(45, 45, 45, 0.8);
-  border-left: 4px solid $secondary-color;
-  border-radius: 10px;
-  padding: 1.5rem;
-  
-  h3 {
-    color: $secondary-color;
-    margin-bottom: 1rem;
-  }
-  
-  ul {
-    list-style: none;
-    padding: 0;
-    
-    li {
-      margin-bottom: 0.5rem;
-      padding-left: 1rem;
-      position: relative;
-      
-      &::before {
-        content: "•";
-        color: $secondary-color;
-        position: absolute;
-        left: 0;
-        font-weight: bold;
-      }
-    }
-  }
-}
-
-// Iconos
-.icon {
-  display: inline-block;
-  width: 1.5rem;
-  height: 1.5rem;
-  text-align: center;
-  margin-right: 0.5rem;
-}
-
-// Responsive
-@media (max-width: 768px) {
-  .navigation-grid {
-    grid-template-columns: 1fr;
-  }
-  
-  .feature-grid {
-    grid-template-columns: 1fr;
-  }
-  
-  .wiki-header h1 {
-    font-size: 2rem;
-  }
-  
-  .server-info {
-    margin: 1rem 0;
-    padding: 1rem;
-  }
+  border-left: 4px solid $secondary-color !important;
+  background: rgba($bg-light, 0.3) !important;
+  color: lighten($text-color, 10%) !important;
 }
