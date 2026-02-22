@@ -21,6 +21,7 @@ header_pages:
 # Estilos personalizados
 sass:
   style: compressed
+  sass_dir: _sass
 
 # Google Analytics (opcional)
 google_analytics: # UA-XXXXXXXXX
