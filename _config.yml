@@ -1,8 +1,8 @@
 # Configuración del Sitio
 title: "Mundo de Fantasía y Creación - Wiki"
 description: "Documentación completa del servidor Minecraft"
-url: "https://evilthork.github.io"
-baseurl: "/iberiansmc"
+url: "https://evilthork.github.io/iberiansmc"
+baseurl: ""
 
 # Configuración de Jekyll
 theme: minima
