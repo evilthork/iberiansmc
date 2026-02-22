@@ -125,7 +125,7 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 
 ### 🎮 **Juego Limpio**
 - ✅ **Creatividad sin límites** (construye libremente)
-- ✅ **Competencia amistable** (PvP balanceado)
+- ✅ **Juego PvP estándar** (sin modificaciones especiales)
 - ✅ **Exploración completa** (sin restricciones)
 - ✅ **Comercio justo** (sin estafas ni engaños)
 
