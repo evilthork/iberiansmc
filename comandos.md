@@ -20,6 +20,7 @@ title: "Comandos Principales - Mundo de Fantasía y Creación"
 /chunk info            - Ver información del chunk
 /chunk list            - Ver todos tus chunks
 ```
+**💡 Tip**: También puedes gestionar chunks desde el mapa con la tecla **M**
 
 ### 📊 **Información Personal**
 ```
@@ -34,22 +35,30 @@ title: "Comandos Principales - Mundo de Fantasía y Creación"
 
 ## 🔧 **Comandos de Supervivencia**
 
-### 🏠 **Construcción y Terrenos**
+### 🏠 **Construcción y Terrenos (Jugadores)**
+```
+/workbench           - Abrir mesa de trabajo
+/anvil               - Abrir yunque
+/enderchest          - Abrir enderchest
+```
+
+### 🏠 **Construcción y Terrenos (Solo Staff)**
 ```
 /fill <x1 y1 z1> <x2 y2 z2> <bloque> - Rellenar área
 /clone <x1 y1 z1> <x2 y2 z2> <x y z> - Copiar área
 /gamemode <survival/creative> - Cambiar modo de juego
-/weather <rain/clear> - Cambiar clima (staff)
-/time <day/night> - Cambiar hora (staff)
+/weather <rain/clear> - Cambiar clima
+/time <day/night> - Cambiar hora
 ```
 
 ### 🎒 **Inventario y Objetos**
 ```
-/give <jugador> <objeto> <cantidad> - Dar objeto (staff)
 /clear                - Limpiar inventario
-/enderchest          - Abrir enderchest
-/workbench           - Abrir mesa de trabajo
-/anvil               - Abrir yunque
+```
+
+### 🎒 **Inventario y Objetos (Solo Staff)**
+```
+/give <jugador> <objeto> <cantidad> - Dar objeto
 ```
 
 ---
