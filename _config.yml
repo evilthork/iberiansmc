@@ -1,10 +1,10 @@
-# Configuración del Sitio
+# Configuración básica
 title: "Mundo de Fantasía y Creación - Wiki"
 description: "Documentación completa del servidor Minecraft"
 url: "https://evilthork.github.io/iberiansmc"
 baseurl: ""
 
-# Configuración de Jekyll
+# Configuración Jekyll
 theme: minima
 markdown: kramdown
 highlighter: rouge
@@ -13,20 +13,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Configuración de la barra lateral
-header_pages:
-  - guia-instalacion.md
-  - lista-mods.md
-
-# Google Analytics (opcional)
-google_analytics: # UA-XXXXXXXXX
-
-# Configuración del servidor
-server_info:
-  ip: "iberians.modded.fun"
-  version: "1.20.1 Forge"
-  ram_recomendada: "8GB"
-  discord: "[PENDIENTE]"
-
-# Configuración de permalinks
+# Permalinks
 permalink: pretty
