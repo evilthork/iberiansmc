@@ -4,11 +4,11 @@
 
 ---
 
-## 🎯 Métodos de Instalación
+## Métodos de Instalación
 
-### 🥇 Método 1: CurseForge App (Recomendado) ⭐
+### Método 1: CurseForge App (Recomendado) 
 **Ideal para**: Principiantes y usuarios que quieren automatización
-**Estado**: ✅ **DISPONIBLE AHORA** con código `SlK8gJY7`
+**Estado**: **DISPONIBLE AHORA** con código `SlK8gJY7`
 
 #### Paso 1: Descargar CurseForge App
 1. Ve a [curseforge.com](https://curseforge.com)
@@ -41,7 +41,7 @@
 
 #### Paso 2: Descargar el Pack de Mods
 1. **En proceso** - Descarga ZIP disponible próximamente
-2. **Alternativa actual**: Usa código Forge `SlK8gJY7` 
+2. **Alternativa actual**: Usa código CurseForge `SlK8gJY7` 
 3. **Fecha estimada**: Disponible cuando se recupere el host
 4. **Opción temporal**: CurseForge App con código
 
