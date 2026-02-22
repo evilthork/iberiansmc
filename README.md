@@ -43,7 +43,38 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 
 ---
 
-## 🗺️ Navegación Rápida
+## � **Sistema de Magia - Iron's Spells**
+
+### 📚 **Escuelas de Magia Disponibles**
+- 🔥 **Fuego** - Magia destructiva y explosiones
+- ❄️ **Hielo** - Control y congelación
+- ⚡ **Rayo** - Ataques eléctricos rápidos
+- ✨ **Santo** - Magia curativa y protectora
+- 🩸 **Sangre** - Magia sacrificial y poderosa
+- 🌀 **Ender** - Teletransporte y manipulación espacial
+- 🔮 **Evocación** - Invocaciones y summoning
+- 🌑 **Vacío** - Magia oscura y corruptora
+- ☠️ **Veneno** - Degradación y efectos tóxicos
+
+### 🛠️ **Estaciones de Artesanía Mágica**
+- **Forja de Pergaminos** - Crea hechizos personalizados con tintas y focos
+- **Yunque Arcano** - Mejora equipo mágico y combina objetos
+- **Mesa de Inscripción** - Inscribe runas de poder
+
+### ⚔️ **Equipo Mágico**
+- **10 conjuntos de armadura** - Uno por cada escuela + 2 básicos
+- **Libros de Hechizos** - Desde hierro hasta netherite (5 fabricables + 2 únicos + 3 encontrados)
+- **Objetos arcanos** - Esencia, runas, tintas mágicas y materiales raros
+
+### 🎯 **Materiales Esenciales**
+- **🖋️ Tintas Mágicas** - Determinan rareza de hechizos (5 niveles)
+- **🎯 Focos de Poder** - Requeridos para cada escuela (9 tipos)
+- **💎 Esencia Arcana** - Material base para objetos mágicos
+- **🗿 Runas Mágicas** - Grabadas para especialización escolar
+
+---
+
+## �🗺️ Navegación Rápida
 
 ### 📦 Para Nuevos Jugadores
 1. [Lee la guía de instalación](guia-instalacion.md)
