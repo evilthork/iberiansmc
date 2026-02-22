@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Comandos Principales - Mundo de Fantasía y Creación"
+title: "Comandos Básicos - Mundo de Fantasía y Creación"
 ---
 
-# 🎮 Comandos Principales del Servidor
+# 🎮 Comandos Básicos del Servidor
 
-> **Guía rápida de los comandos más útiles para tu aventura**
+> **Comandos esenciales que todos los jugadores pueden usar**
 
 ---
 
@@ -33,80 +33,13 @@ title: "Comandos Principales - Mundo de Fantasía y Creación"
 
 ---
 
-## 🔧 **Comandos de Supervivencia**
+## �️ **Navegación y Teletransporte**
 
-### 🏠 **Construcción y Terrenos (Jugadores)**
-```
-# Nota: Los jugadores usan interfaces normales (mesa de trabajo, yunque, enderchest)
-# No hay comandos especiales para construcción en modo supervivencia
-```
-
-### 🏠 **Construcción y Terrenos (Solo Staff)**
-```
-/workbench           - Abrir mesa de trabajo virtual
-/anvil               - Abrir yunque virtual
-/enderchest          - Abrir enderchest virtual
-/fill <x1 y1 z1> <x2 y2 z2> <bloque> - Rellenar área
-/clone <x1 y1 z1> <x2 y2 z2> <x y z> - Copiar área
-/gamemode <survival/creative> - Cambiar modo de juego
-/weather <rain/clear> - Cambiar clima
-/time <day/night> - Cambiar hora
-```
-
-### 🎒 **Inventario y Objetos**
-```
-/clear                - Limpiar inventario
-```
-
-### 🎒 **Inventario y Objetos (Solo Staff)**
-```
-/give <jugador> <objeto> <cantidad> - Dar objeto
-```
-
----
-
-## 🌟 **Comandos de Mods Específicos**
-
-### ⚔️ **Combat y RPG**
-```
-/blood <cantidad>    - Ver nivel de sangre (Blood Magic)
-/mana                - Ver maná (Botania)
-/baubles             - Abrir inventario de baubles
-/health              - Ver salud detallada
-```
-
-### 🔮 **Magia (Botania)**
-```
-/botania-spread      - Ver propagación de flores
-/pure-daisy          - Forzar pureza de Daisy
-/terrasteel          - Ver progreso de Terrasteel
-```
-
-### ⚡ **Tecnología (Thermal/BuildCraft)**
-```
-/redstone            - Probar redstone
-/toggle              - Alternar estado de máquinas
-/wrench              - Usar llave en máquinas
-```
-
----
-
-## 🗺️ **Navegación y Teletransporte**
-
-### 📍 **Waypoints y Viajes**
+### 📍 **Teletransporte Básico**
 ```
 /tptoggle            - Activar/desactivar teletransporte
-/back                - Volver a ubicación anterior
-/spawn               - Ir al spawn
-/warp <nombre>       - Ir a warp específico
-/setwarp <nombre>    - Crear warp (staff)
-```
-
-### 🌍 **Exploración**
-```
-/biome               - Ver bioma actual
-/locate <estructura> - Encontrar estructura cercana
-/compass             - Ver coordenadas
+/back                 - Volver a ubicación anterior
+/spawn                - Ir al spawn
 ```
 
 ---
@@ -119,14 +52,6 @@ title: "Comandos Principales - Mundo de Fantasía y Creación"
 /r <texto>            - Responder último mensaje
 /mail <jugador> <texto> - Enviar correo
 /mail read            - Leer correos
-```
-
-### 👥 **Equipos y Partidos**
-```
-/party create        - Crear equipo
-/party invite <jugador> - Invitar a equipo
-/party accept        - Aceptar invitación
-/party leave          - Salir del equipo
 ```
 
 ---
@@ -161,52 +86,6 @@ title: "Comandos Principales - Mundo de Fantasía y Creación"
 /staff               - Ver staff conectado
 ```
 
-### 🐛 **Reportar Bugs**
-```
-/bug <descripción>   - Reportar bug
-/suggest <idea>      - Sugerir mejora
-```
-
----
-
-## 🎯 **Comandos Avanzados**
-
-### 🔧 **Para Jugadores Experimentados**
-```
-/scoreboard objectives - Ver objetivos
-/scoreboard players   - Ver puntuaciones
-/team                 - Gestionar equipos
-/advancement <nombre> - Ver logros
-```
-
-### 📊 **Estadísticas y Progreso**
-```
-/stats                - Ver estadísticas
-/achievement list     - Ver logros disponibles
-/experience           - Ver experiencia
-```
-
----
-
-## 🚫 **Comandos Restringidos (Solo Staff)**
-
-### 👑 **Administración**
-```
-/op <jugador>        - Dar operador (admin)
-/deop <jugador>      - Quitar operador
-/ban <jugador>       - Banear jugador
-/kick <jugador>      - Expulsar jugador
-/whitelist add <jugador> - Añadir a whitelist
-```
-
-### 🌍 **Control del Mundo**
-```
-/gamerule <regla> <valor> - Cambiar regla de juego
-/weather <tipo>      - Control clima
-/time set <valor>    - Control tiempo
-/difficulty <nivel>  - Cambiar dificultad
-```
-
 ---
 
 ## 💡 **Tips y Consejos**
@@ -222,7 +101,7 @@ title: "Comandos Principales - Mundo de Fantasía y Creación"
 - **Respeta las reglas** al usar comandos
 
 ### 📚 **Aprendizaje:**
-- **Prueba comandos** en modo creativo primero
+- **Prueba comandos** en modo supervivencia
 - **Usa `/help`** si no recuerdas un comando
 - **Pregunta en Discord** si tienes dudas
 
@@ -254,8 +133,10 @@ title: "Comandos Principales - Mundo de Fantasía y Creación"
 
 ---
 
-**¡Dominar estos comandos te hará un jugador más eficiente y preparado!** 🎮✨
+**¡Dominar estos comandos básicos te hará un jugador más eficiente!** 🎮✨
 
 ---
+
+*Nota: Comandos específicos de mods se añadirán en guías separadas según se necesiten*
 
 *Última actualización: 22 de febrero de 2026*
