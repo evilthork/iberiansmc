@@ -74,7 +74,7 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 
 ---
 
-## �🗺️ Navegación Rápida
+## �️ Navegación Rápida
 
 ### 📦 Para Nuevos Jugadores
 1. [Lee la guía de instalación](guia-instalacion.md)
@@ -114,14 +114,6 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 | **Biomas Únicos** | 50+ |
 | **Capacidad** | 20+ jugadores |
 | **Uptime** | 99.9% |
-
----
-
-## 🎯 Últimas Actualizaciones
-
-- **22/02/2026**: Wiki creada con guía de instalación
-- **22/02/2026**: Código Forge temporal activo
-- **22/02/2026**: Web principal actualizada
 
 ---
 

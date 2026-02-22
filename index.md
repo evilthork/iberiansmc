@@ -116,7 +116,7 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 | **Versión** | 1.20.1 Forge |
 | **Mods Instalados** | 100+ |
 | **Biomas Únicos** | 50+ |
-| **Capacidad** | 20+ jugadores |
+| **Capacidad** | 30+ jugadores |
 | **Uptime** | 99.9% |
 
 ---
