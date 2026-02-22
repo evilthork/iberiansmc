@@ -76,19 +76,7 @@ title: "Comandos Básicos - Mundo de Fantasía y Creación"
 
 ---
 
-## 🚨 **Comandos de Reporte y Soporte**
-
-### 📞 **Contactar Staff**
-```
-/report <mensaje>    - Reportar problema
-/request <mensaje>   - Solicitar ayuda
-/helpop <mensaje>    - Llamar a operador
-/staff               - Ver staff conectado
-```
-
----
-
-## 💡 **Tips y Consejos**
+##  **Tips y Consejos**
 
 ### 🎯 **Uso Eficiente de Comandos:**
 - **Usa Tab** para autocompletar comandos
@@ -97,7 +85,7 @@ title: "Comandos Básicos - Mundo de Fantasía y Creación"
 
 ### 🛡️ **Seguridad:**
 - **Nunca compartas tu contraseña**
-- **Usa `/report`** para problemas serios
+- **Usa el chat del servidor** para contactar staff
 - **Respeta las reglas** al usar comandos
 
 ### 📚 **Aprendizaje:**
@@ -111,8 +99,8 @@ title: "Comandos Básicos - Mundo de Fantasía y Creación"
 
 ### 🚨 **Si necesitas ayuda:**
 1. **Usa `/help`** - Ayuda general
-2. **Contacta staff** con `/report`
-3. **Revisa esta guía** cuando necesites
+2. **Usa el chat del servidor** - Contactar staff directamente
+3. **Revisa esta guía** - Cuando necesites
 4. **Pregunta en Discord** (próximamente)
 
 ---
@@ -128,7 +116,7 @@ title: "Comandos Básicos - Mundo de Fantasía y Creación"
 - `/home` - Volver a hogar
 
 ### 📞 **Ayuda**
-- `/report <mensaje>` - Contactar staff
+- **Usa el chat del servidor** - Contactar staff directamente
 - `/help` - Ver comandos disponibles
 
 ---
