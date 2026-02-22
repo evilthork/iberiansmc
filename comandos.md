@@ -28,7 +28,6 @@ title: "Comandos Básicos - Mundo de Fantasía y Creación"
 /ping                 - Ver tu ping
 /home                 - Teletransporte a tu hogar
 /sethome              - Establecer hogar
-/seed                 - Ver semilla del mundo
 ```
 
 ---
@@ -37,7 +36,6 @@ title: "Comandos Básicos - Mundo de Fantasía y Creación"
 
 ### 📍 **Teletransporte Básico**
 ```
-/tptoggle            - Activar/desactivar teletransporte
 /back                 - Volver a ubicación anterior
 /spawn                - Ir al spawn
 ```
