@@ -37,13 +37,15 @@ title: "Comandos Principales - Mundo de Fantasía y Creación"
 
 ### 🏠 **Construcción y Terrenos (Jugadores)**
 ```
-/workbench           - Abrir mesa de trabajo
-/anvil               - Abrir yunque
-/enderchest          - Abrir enderchest
+# Nota: Los jugadores usan interfaces normales (mesa de trabajo, yunque, enderchest)
+# No hay comandos especiales para construcción en modo supervivencia
 ```
 
 ### 🏠 **Construcción y Terrenos (Solo Staff)**
 ```
+/workbench           - Abrir mesa de trabajo virtual
+/anvil               - Abrir yunque virtual
+/enderchest          - Abrir enderchest virtual
 /fill <x1 y1 z1> <x2 y2 z2> <bloque> - Rellenar área
 /clone <x1 y1 z1> <x2 y2 z2> <x y z> - Copiar área
 /gamemode <survival/creative> - Cambiar modo de juego
