@@ -10,9 +10,9 @@ title: "Mundo de Fantasía y Creación - Wiki"
 
 ---
 
-## 📖 Bienvenido a la Documentación
+## 🏰 Guía del Servidor
 
-Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". Aquí encontrarás toda la información necesaria para unirte, jugar y disfrutar al máximo.
+Todo lo que necesitas para entrar al servidor, instalar el modpack y empezar a jugar sin complicaciones.
 
 ### 🚀 Comienza Aquí
 
