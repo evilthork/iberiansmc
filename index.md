@@ -130,9 +130,8 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 - ✅ **Comercio justo** (sin estafas ni engaños)
 
 ### 🎮 **Comunidad Respetuosa**
-- ✅ **Ayuda mutua** entre jugadores
-- ✅ **Comparte recursos** generosamente
-- ✅ **Sigue las reglas** del servidor
+- ✅ **Respeto entre jugadores**
+- ✅ **Sigue las reglas del servidor**
 - ✅ **Reporta bugs** para mejorar
 
 ---
