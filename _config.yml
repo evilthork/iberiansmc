@@ -1,7 +1,7 @@
 # Configuración del Sitio
 title: "Mundo de Fantasía y Creación - Wiki"
 description: "Documentación completa del servidor Minecraft"
-url: "https://evilthork.github.io/iberiansmc"
+url: "https://evilthork.github.io"
 baseurl: "/iberiansmc"
 
 # Configuración de Jekyll
@@ -17,8 +17,6 @@ plugins:
 header_pages:
   - guia-instalacion.md
   - lista-mods.md
-  - comandos.md
-  - reglas.md
 
 # Estilos personalizados
 sass:
