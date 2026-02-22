@@ -3,17 +3,6 @@ layout: default
 title: "Guía de Instalación - Mundo de Fantasía y Creación"
 ---
 
-<div class="wiki-header">
-    <h1 class="medieval-title">📦 Guía de Instalación Completa</h1>
-    <p class="text-xl text-gray-300 mt-4">
-        <strong>Paso a paso para unirte al servidor "Mundo de Fantasía y Creación"</strong>
-    </p>
-</div>
-
----
-
-## 🎯 Métodos de Instalación
-
 <div class="navigation-grid">
     <div class="nav-card">
         <div class="icon-large">
