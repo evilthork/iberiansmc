@@ -18,6 +18,13 @@ header_pages:
   - guia-instalacion.md
   - lista-mods.md
 
+# Google Fonts para nuestro tema medieval
+google_fonts:
+  - name: "Cinzel"
+    weights: "400,600,700"
+  - name: "MedievalSharp"
+    weights: "400"
+
 # Google Analytics (opcional)
 google_analytics: # UA-XXXXXXXXX
 
