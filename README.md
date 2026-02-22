@@ -1,5 +1,3 @@
-# 🏰 Mundo de Fantasía y Creación - Wiki
-
 ![Server Banner](assets/images/server-banner.png)
 
 > **Servidor Survival Minecraft 1.20.1 Forge**  
