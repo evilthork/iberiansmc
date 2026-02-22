@@ -99,9 +99,8 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 
 ### 📝 Cómo Contribuir
 1. **Reporta errores** o información desactualizada
-2. **Sugiere nuevas secciones** o guías
-3. **Comparte tus builds** y estrategias
-4. **Ayuda a nuevos jugadores** en Discord
+2. **Sugiere mejoras** para el servidor y documentación
+3. **Comparte tu experiencia** con otros jugadores
 
 ### 📧 Contacto
 - **Discord**: [PENDIENTE]
