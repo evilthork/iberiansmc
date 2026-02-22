@@ -15,3 +15,6 @@ plugins:
 
 # Permalinks
 permalink: pretty
+
+# Forzar rebuild
+rebuild_trigger: 1
