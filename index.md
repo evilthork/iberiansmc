@@ -18,8 +18,8 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 
 | Sección | Descripción | Enlace |
 |---------|-------------|--------|
-| 📦 **Instalación** | Guía paso a paso para instalar el pack de mods | [Ver Guía](guia-instalacion.md) |
-| 🔧 **Lista de Mods** | Todos los mods disponibles y sus funciones | [Ver Mods](lista-mods.md) |
+| 📦 **Instalación** | Guía paso a paso para instalar el pack de mods | [Ver Guía](guia-instalacion) |
+| 🔧 **Lista de Mods** | Todos los mods disponibles y sus funciones | [Ver Mods](lista-mods) |
 
 ---
 
