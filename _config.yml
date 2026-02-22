@@ -18,11 +18,6 @@ header_pages:
   - guia-instalacion.md
   - lista-mods.md
 
-# Estilos personalizados
-sass:
-  style: compressed
-  sass_dir: _sass
-
 # Google Analytics (opcional)
 google_analytics: # UA-XXXXXXXXX
 
