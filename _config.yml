@@ -32,3 +32,8 @@ server_info:
   version: "1.20.1 Forge"
   ram_recomendada: "8GB"
   discord: "[PENDIENTE]"
+
+# Configuración de includes
+include:
+  - .htaccess
+  - _pages
