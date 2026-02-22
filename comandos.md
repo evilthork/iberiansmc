@@ -50,8 +50,6 @@ title: "Comandos Básicos - Mundo de Fantasía y Creación"
 ```
 /msg <jugador> <texto> - Mensaje privado
 /r <texto>            - Responder último mensaje
-/mail <jugador> <texto> - Enviar correo
-/mail read            - Leer correos
 ```
 
 ---
@@ -61,17 +59,13 @@ title: "Comandos Básicos - Mundo de Fantasía y Creación"
 ### 🔍 **Información y Ayuda**
 ```
 /help                - Ver ayuda general
-/rules               - Ver reglas del servidor
 /list                - Ver jugadores conectados
 /who <jugador>       - Ver información de jugador
 ```
 
 ### ⚙️ **Configuración Personal**
 ```
-/nick <nombre>       - Cambiar apodo (staff)
 /realname            - Ver nombre real
-/ignore <jugador>    - Ignorar jugador
-/unignore <jugador>  - Dejar de ignorar
 ```
 
 ---
