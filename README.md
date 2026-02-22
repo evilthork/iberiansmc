@@ -29,7 +29,7 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 - **Espacio**: 2GB libres para mods
 
 ### 🔗 Enlaces Importantes
-- **Web Principal**: [evilthork.github.io](https://evilthork.github.io)
+- **Web Principal**: [evilthork.github.io](https://evilthork.github.io/iberiansmc)
 - **IP del Servidor**: `iberians.modded.fun`
 - **Código Forge**: `SlK8gJY7` (válido hasta 02/03/2026)
 - **Discord**: [PENDIENTE]
@@ -47,7 +47,7 @@ Esta es la guía completa de nuestro servidor "Mundo de Fantasía y Creación". 
 
 ### 📦 Para Nuevos Jugadores
 1. [Lee la guía de instalación](guia-instalacion.md)
-2. [Descarga el pack de mods](https://drive.google.com/file/d/TU-FILE-ID/view)
+2. [Descarga el pack de mods](https://drive.google.com/file/d/FILE-ID/view) Proximamente
 3. [Conéctate al servidor](iberians.modded.fun)
 4. [Únete a nuestro Discord](#) (próximamente)
 
