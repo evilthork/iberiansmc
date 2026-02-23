@@ -98,7 +98,7 @@ title: "Guía de Instalación - Mundo de Fantasía y Creación"
 
 - **Discord**: [PENDIENTE]
 - **GitHub Issues**: [Reportar Problema](https://github.com/evilthork/iberiansmc/issues)
-- **Staff en juego**: `/report <mensaje>`
+- **Staff en juego**: Usa el chat del servidor para contactar directamente
 
 ---
 
