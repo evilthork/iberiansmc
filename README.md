@@ -72,6 +72,11 @@ Todo lo que necesitas para entrar al servidor, instalar el modpack y empezar a j
 - **💎 Esencia Arcana** - Material base para objetos mágicos
 - **🗿 Runas Mágicas** - Grabadas para especialización escolar
 
+### 📚 **Wiki Oficial del Mod**
+- **Documentación completa**: [Iron's Spells Wiki](https://iron.wiki/1_19/)
+- **Guías detalladas** de hechizos, recetas y mecánicas
+- **Referencia oficial** para jugadores avanzados
+
 ---
 
 ## �️ Navegación Rápida
