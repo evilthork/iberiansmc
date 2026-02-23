@@ -12,15 +12,11 @@ title: "Comandos Básicos - Mundo de Fantasía y Creación"
 ## 🛡️ **Comandos Esenciales**
 
 ### 🏰 **FTB Chunks (Protección de Terrenos)**
-```
-/chunk claim          - Reclamar chunk actual
-/chunk trust <jugador> - Dar permisos a amigo
-/chunk load           - Cargar chunk siempre activo
-/chunk unclaim         - Liberar chunk reclamado
-/chunk info            - Ver información del chunk
-/chunk list            - Ver todos tus chunks
-```
-**💡 Tip**: También puedes gestionar chunks desde el mapa con la tecla **M**
+**💡 Tip**: La forma más fácil de gestionar chunks es con el mapa. Presiona **M** para abrir el mapa, desde ahí puedes:
+- Ver todos tus chunks disponibles
+- Reclamar nuevos chunks con clic derecho
+- Gestionar permisos y configuración
+- Consultar información detallada de cada chunk
 
 ### 📊 **Información Personal**
 ```
@@ -94,22 +90,6 @@ title: "Comandos Básicos - Mundo de Fantasía y Creación"
 2. **Usa el chat del servidor** - Contactar staff directamente
 3. **Revisa esta guía** - Cuando necesites
 4. **Pregunta en Discord** (próximamente)
-
----
-
-## 📋 **Referencia Rápida**
-
-### 🏰 **Protección**
-- `/chunk claim` - Proteger terreno
-- `/chunk trust <nombre>` - Dar permisos
-
-### 🏠 **Hogar**
-- `/sethome` - Establecer hogar
-- `/home` - Volver a hogar
-
-### 📞 **Ayuda**
-- **Usa el chat del servidor** - Contactar staff directamente
-- `/help` - Ver comandos disponibles
 
 ---
 
